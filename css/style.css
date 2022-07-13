@@ -21,7 +21,7 @@ body {
     height: 50%;
     position: absolute;
     top: 50%;
-    left: 30%;
+    left: 50%;
     transform: translate(-50%, -50%);
     background-color: #18191c;
     border-radius: 10px;
