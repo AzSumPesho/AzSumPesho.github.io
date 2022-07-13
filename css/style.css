@@ -17,11 +17,11 @@ body {
 .profile {
     max-width: 900px;
     max-height: 480px;
-    width: 45%;
-    height: 45%;
+    width: 15%;
+    height: 15%;
     position: absolute;
     top: 50%;
-    left: 10%;
+    left: 30%;
     transform: translate(-50%, -50%);
     background-color: #18191c;
     border-radius: 10px;
